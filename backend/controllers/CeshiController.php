@@ -50,10 +50,10 @@ class CeshiController extends Controller
 //    public function actionCeshi1()
 //    {
 //
-//        $accessKeyId = "LTAI8tK5IO0txWzF";
-//        $accessKeySecret = "wIkzucfVf3v39vSaEmOKubEeu3nEqy";
-//        $endpoint = "http://oss-cn-beijing.aliyuncs.com";
-//        $bucket = " shipin-ceshi";
+//        $accessKeyId = "L***F";
+//        $accessKeySecret = "w****y";
+//        $endpoint = "http://oss-cn-**.aliyuncs.com";
+//        $bucket = " **-ceshi";
 //        $object = " <您使用的Object名字，注意命名规范>";
 //        $content = "Hi, OSS.";
 //        try {
