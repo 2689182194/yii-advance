@@ -10,8 +10,8 @@ use yii\helpers\Url;
 
 <table width="620" align="center" border="0" cellpadding="1" cellspacing="1" style="background:#FB7"> <tr> <td width="464" height="27" bgcolor="#FFE7CE"> 代码如下</td> <td width="109" align="center" bgcolor="#FFE7CE" style="cursor:pointer;" onclick="doCopy('copy9020')">复制代码</td> </tr> <tr> <td height="auto" colspan="2" valign="top" bgcolor="#FFFFFF" style="padding:10px;" class="copyclass" id=copy9020>
             <?php
-            $access_id = 'LTAI8tK5IO0txWzF';
-            $access_key = 'wIkzucfVf3v39vSaEmOKubEeu3nEqy';
+            $access_id = 'L***F';
+            $access_key = 'w***qy';
             $url='http://oss-cn-beijing.aliyuncs.com';//更改成你自己的地址
             $policy = '{"expiration": "2120-01-01T12:00:00.000Z","conditions":[{"bucket": "ioutsider" },["content-length-range", 0, 104857600]]}';
             $policy = base64_encode($policy);
